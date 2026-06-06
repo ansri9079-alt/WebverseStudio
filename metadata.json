@@ -1,0 +1,6 @@
+{
+  "name": "Webverse Studio",
+  "description": "High-converting, minimalist web design portfolio for Webverse Studio, specializing in performance-optimized digital platforms for startups and enterprise clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
